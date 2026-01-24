@@ -1,0 +1,9 @@
+[project]
+name = "ex-django"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=6.0.1",
+    "pillow>=12.1.0",
+]
